@@ -126,6 +126,7 @@ CountOnes
 Cron
 CuPy
 DBRX
+DCGM
 DCLK
 DCQCN
 DDA
@@ -285,6 +286,7 @@ HIPification
 HIPify
 HLO
 HPC
+HPCToolkit
 HPCG
 HPE
 HPL
