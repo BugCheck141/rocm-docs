@@ -513,6 +513,7 @@ PILImage
 PLDM
 PMCs
 PMI
+PMU
 POPs
 POR
 POSIX
@@ -1110,6 +1111,7 @@ initramfs
 inlining
 installable
 instrSize
+integrators
 interop
 interpolators
 interprocedural
